@@ -30,7 +30,7 @@
 ## Skills
 
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frameworks/Libraries:** React, React Native
+- **Frameworks/Libraries:** React,Next js
 - **Content Management Systems:** WordPress,Shopify
 - **Web Technologies:** APIs, JSON, JSON web token
 - **CSS Frameworks:** tailwind,Daisyui,Flowbite
