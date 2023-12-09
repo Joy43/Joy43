@@ -16,7 +16,7 @@
 ## Current status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joy43&theme=shades-of-purple&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joy43&show_icons=true&locale=en&layout=compact" alt="joy43" /></p>
 
 
 
