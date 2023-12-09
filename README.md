@@ -10,7 +10,7 @@
 - **Frameworks/Libraries:** React, React Native
 - **Content Management Systems:** WordPress,Shopify
 - **Web Technologies:** APIs, JSON, JSON web token
-- - **CSS Frameworks:** tailwind,Daisyui,Flowbite
+- **CSS Frameworks:** tailwind,Daisyui,Flowbite
 
 
 
