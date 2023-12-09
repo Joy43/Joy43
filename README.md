@@ -1,3 +1,4 @@
+<div style="background-color: #1D061E; padding: 20px; border-radius: 8px;">
 <h1 align="center">Hi I'm Shahsultan Islam Joy</h1>
 
 ![logo](https://i.imgur.com/3Qtvj7X.jpg)
@@ -67,10 +68,7 @@
   <img src="https://i.ibb.co/CtzG5Z3/tech-world-small.png" alt="Tech World" width="350" height="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-right: 16px;">
   <img src="https://i.ibb.co/47HZfbw/pART.png" alt="World Tech Dashboard" width="650" height="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </p>
-
-
-
-
+</div>
 
 
 
