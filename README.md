@@ -66,8 +66,11 @@
 <p align="center">
   <img src="https://i.ibb.co/Ryg7fYR/Home-page.png" alt="Home Page" width="350" height="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-right: 16px;">
   <img src="https://i.ibb.co/CtzG5Z3/tech-world-small.png" alt="Tech World" width="350" height="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-right: 16px;">
-  <img src="https://i.ibb.co/47HZfbw/pART.png" alt="World Tech Dashboard" width="650" height="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+ 
 </p>
+
+## Examples of workplace
+<img src="https://i.ibb.co/1fw31Kt/web.gif" width="512" >
 </div>
 
 
