@@ -10,14 +10,13 @@
 
 - 👨‍💻Technology [Phone store](https://github.com/Joy43/asingment--10-client.git)
 
-- 🌱 I’m currently learning **Next js,Material ui**
 
 - 👨‍💻 CSS work place [social fontend](https://github.com/Joy43/Social-BD.git)
 
 - 👨‍💻Management Project [world Hotel mangement](https://github.com/Joy43/assingment-11-hotel-client.git)
 
 - 👨‍💻 All of my projects are available at [https://gregarious-taffy-4f027f.netlify.app/](https://gregarious-taffy-4f027f.netlify.app/)
-
+- 🌱 I’m currently learning **Next js,Material ui**
 - 💬 Ask me about **react,javascript,tailwind**
 
 <h3 align="left">Connect with me:</h3>
