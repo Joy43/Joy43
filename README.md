@@ -8,9 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy43&label=Profile%20views&color=0e75b6&style=flat" alt="joy43" /> </p>
 
-- 🌱 I’m currently learning **Next js,Matarial ui**
+- 👨‍💻Technology [Phone store](https://github.com/Joy43/asingment--10-client.git)
 
-- 👨‍💻 Best Hotel magagement Project  [https://gregarious-taffy-4f027f.netlify.app/](https://gregarious-taffy-4f027f.netlify.app/)
+- 🌱 I’m currently learning **Next js,Material ui**
+
+- 👨‍💻 CSS work place [social fontend](https://github.com/Joy43/Social-BD.git)
+
+- 👨‍💻Management Project [world Hotel mangement](https://github.com/Joy43/assingment-11-hotel-client.git)
+
+- 👨‍💻 All of my projects are available at [https://gregarious-taffy-4f027f.netlify.app/](https://gregarious-taffy-4f027f.netlify.app/)
 
 - 💬 Ask me about **react,javascript,tailwind**
 
