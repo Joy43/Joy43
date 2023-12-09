@@ -8,10 +8,9 @@
 
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
 - **Frameworks/Libraries:** React, React Native
-- **Content Management Systems:** WordPress
-- **Web Technologies:** RESTful APIs, AJAX, JSON
-- **UI/UX:** Wireframing, Prototyping, User-Centric Design
-
+- **Content Management Systems:** WordPress,Shopify
+- **Web Technologies:** APIs, JSON, JSON web token
+- - **CSS Frameworks:** tailwind,Daisyui,Flowbite
 
 
 
