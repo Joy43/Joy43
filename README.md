@@ -12,7 +12,7 @@
 - **Web Technologies:** APIs, JSON, JSON web token
 - **CSS Frameworks:** tailwind,Daisyui,Flowbite
 - -----------------------------------------------
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joy43&theme=shades-of-purple)](https://git.io/streak-stats)
 
 
 
