@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next js,Matarial ui**
 
-- 👨‍💻 Best Project [https://gregarious-taffy-4f027f.netlify.app/](https://gregarious-taffy-4f027f.netlify.app/)
+- 👨‍💻 Best Hotel magagement Project  [https://gregarious-taffy-4f027f.netlify.app/](https://gregarious-taffy-4f027f.netlify.app/)
 
 - 💬 Ask me about **react,javascript,tailwind**
 
