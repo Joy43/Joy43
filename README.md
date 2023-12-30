@@ -61,8 +61,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joy43" alt="joy43" /></a> </p>
 
-------------
-<h1  align="center"> project shows</h1>
+
+<h1  style="text-align: center;"> project shows</h1>
 <p align="center">
   <img src="https://i.ibb.co/Ryg7fYR/Home-page.png" alt="Home Page" width="350" height="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-right: 16px;">
   <img src="https://i.ibb.co/CtzG5Z3/tech-world-small.png" alt="Tech World" width="350" height="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-right: 16px;">
