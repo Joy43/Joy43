@@ -1,7 +1,7 @@
 <div style="background-color: #1D061E; padding: 20px; border-radius: 8px;">
 <h1 align="center">Hi I'm Shahsultan Islam Joy</h1>
 
-![logo](https://i.imgur.com/3Qtvj7X.jpg)
+![logo](https://i.ibb.co/LhKZCk5/web-developer.gif)
 
 "Shahsultan Islam Joy" from Bangladesh  | Passionate about Design, Development, and Digital Creativity | Fluent in React, MongoDB, Firebase, and Next js | Dedicated to Crafting Intuitive Material UI Experiences 🚀"
 
