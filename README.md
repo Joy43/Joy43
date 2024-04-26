@@ -70,7 +70,7 @@
 </p>
 
 ## Examples of workplace
-<div align="center"><img src="https://i.ibb.co/1fw31Kt/web.gif" width="512" ></div>
+<div align="center"><img src="https://i.ibb.co/tHBGTBy/about-us.gif" width="512" ></div>
 </div>
 
 
