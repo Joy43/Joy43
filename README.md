@@ -5,10 +5,10 @@
 
 "Shahsultan Islam Joy" from Bangladesh  | Passionate about Design, Development, and Digital Creativity | Fluent in React, MongoDB, Firebase, and Next js | Dedicated to Crafting Intuitive Material UI Experiences 🚀"
 
-<!-- <img align="right" alt="coding" width="400" src="https://i.ibb.co/rZHQGyK/ezgif-com-video-to-gif.gif"> -->
-<div align="right" >
+<img align="right" alt="coding" width="400" src="./image/Web Development .png">
+<!-- <div align="right" >
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayon117&theme=outrun)</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayon117&theme=outrun)</div> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy43&label=Profile%20views&color=0e75b6&style=flat" alt="joy43" /> </p>
 
@@ -65,12 +65,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joy43" alt="joy43" /></a> </p>
 
 
-<h1  style="text-align: center;"> project shows</h1>
+<!-- <h1  style="text-align: center;"> project shows</h1>
 <p align="center">
   <img src="https://i.ibb.co/Ryg7fYR/Home-page.png" alt="Home Page" width="350" height="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-right: 16px;">
   <img src="https://i.ibb.co/CtzG5Z3/tech-world-small.png" alt="Tech World" width="350" height="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-right: 16px;">
  
-</p>
+</p> -->
 ## 📊Github Stats
 
 <div align="center">
