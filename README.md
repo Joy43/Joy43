@@ -68,6 +68,16 @@
   <img src="https://i.ibb.co/CtzG5Z3/tech-world-small.png" alt="Tech World" width="350" height="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-right: 16px;">
  
 </p>
+## 📊Github Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nayon117&theme=outrun" width="400" /></td>
+      <td><img src="https://streak-stats.demolab.com?user=nayon117&theme=outrun" width="400" /></td>
+    </tr>
+  </table>
+</div>
 
 ## Examples of workplace
 <div align="center"><img src="https://i.ibb.co/tHBGTBy/about-us.gif" width="512" ></div>
