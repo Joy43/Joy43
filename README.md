@@ -1,12 +1,12 @@
 <div style="background-color: #1D061E; padding: 20px; border-radius: 8px;">
 <h1 align="center">Hi I'm Shahsultan Islam Joy</h1>
 
-![logo](https://i.ibb.co/LhKZCk5/web-developer.gif)
+![logo](https://i.ibb.co/Z6Q0hSp/shahsultan-islam-joy.gif)
 
 "Shahsultan Islam Joy" from Bangladesh  | Passionate about Design, Development, and Digital Creativity | Fluent in React, MongoDB, Firebase, and Next js | Dedicated to Crafting Intuitive Material UI Experiences 🚀"
 
 <!-- <img align="right" alt="coding" width="400" src="https://i.ibb.co/rZHQGyK/ezgif-com-video-to-gif.gif"> -->
-<div>
+<div align="right" >
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayon117&theme=outrun)</div>
 
