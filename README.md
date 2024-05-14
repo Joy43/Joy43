@@ -5,7 +5,10 @@
 
 "Shahsultan Islam Joy" from Bangladesh  | Passionate about Design, Development, and Digital Creativity | Fluent in React, MongoDB, Firebase, and Next js | Dedicated to Crafting Intuitive Material UI Experiences 🚀"
 
-<img align="right" alt="coding" width="400" src="https://i.ibb.co/rZHQGyK/ezgif-com-video-to-gif.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://i.ibb.co/rZHQGyK/ezgif-com-video-to-gif.gif"> -->
+<div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayon117&theme=outrun)</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy43&label=Profile%20views&color=0e75b6&style=flat" alt="joy43" /> </p>
 
