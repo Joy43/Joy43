@@ -99,7 +99,7 @@
 <img height="150" src="./image/JWT.png"/>
 </p>
 
-  </p> -->
+  </p>
 
   <br/>
 
