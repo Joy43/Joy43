@@ -83,7 +83,7 @@
 </div>
 
 
-## :bulb: Language and tools_
+## :bulb: Language learn and explore_
 
        
        
