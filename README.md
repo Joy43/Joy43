@@ -68,54 +68,46 @@
   </table>
 </div>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joy43&show_icons=true&locale=en&layout=compact" alt="joy43" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joy43&show_icons=true&locale=en" alt="joy43" /></p> -->
-
+<!-- ---------state shahsultan islam joy -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joy43&show_icons=true&theme=bear" width="400">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Joy43&theme=dark&hide_border=true" width="400"> -->
 
- 
 </p>
 
+<!-- --------------------langage and trolls------------- -->
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="left">  
-<a href="">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
- </a>
-   <a href="">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-</a>
-  <a href="">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
-</a>
- <a href="">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-</a>
-<!-- <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
-</a> -->
-<a href="">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
-</a>
-
-
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-</a>
+  <a href="https://reactjs.org" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+  </a>
+  <a href="https://webpack.js.org" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+  </a>
+  <a href="https://sass-lang.com" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+  </a>
 </p>
+
 
 
 ---------------
@@ -125,6 +117,10 @@
 
 
 
+
+
+
+<!-- ------------explore language -->
 
 ## :bulb:learn and explore Language_
 
