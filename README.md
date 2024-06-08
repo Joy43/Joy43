@@ -126,7 +126,7 @@
 
 
 
-## :bulb: Language learn and explore_
+## :bulb:learn and explore Language_
 
        
        
@@ -154,11 +154,7 @@
   <br/>
 
 
-<!-- <div align="center">
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joy43&theme=outrun)
 
-</div> -->
 
 <!---------------- Social---------------------- -->
 <table width="100%" align="center">
@@ -187,7 +183,7 @@
 
 
 <p>
-<img height="100" alt="Music" src="image/linkedin-pro.gif"> 
+<img height="100" alt="Linkedin" src="image/linkedin-pro.gif"> 
 </a>
 </p>
 
@@ -204,6 +200,7 @@
 <br />
 
 <!-- ------visitor count--------- -->
+## :bulb:Visit my profile count_
 ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
 
 
