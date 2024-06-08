@@ -38,12 +38,22 @@
 
 <div align="center">
 
-## Current status
+<!-- ## Current status
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joy43&theme=shades-of-purple&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
-</div>
+</div> -->
+## 📊Github Stats
 
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?
+      username=Joy43&theme=outrun" width="400" /></td>
+      <td><img src="https://streak-stats.demolab.com?user=nayon117&theme=outrun" width="400" /></td>
+    </tr>
+  </table>
+</div>
 
 
 
@@ -62,7 +72,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joy43" alt="joy43" /></a> </p>
 
+## 📊Github Stats
 
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?
+      username=Joy43&theme=outrun" width="400" /></td>
+      <td><img src="https://streak-stats.demolab.com?user=nayon117&theme=outrun" width="400" /></td>
+    </tr>
+  </table>
+</div>
 
 
 ## :bulb: Language learn and explore_
@@ -91,10 +111,16 @@
   </p>
 
   <br/>
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 <div align="center">
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayon117&theme=outrun)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joy43&theme=outrun)
 
 </div>
 
