@@ -138,15 +138,47 @@
 
   <br/>
 
+<!-- ----------------language summary---------- -->
 <div align="center">
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joy43&theme=outrun)
 
 </div>
+<!-- ----------social------------- -->
+<!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://shahsultan-islam-joy.vercel.app">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
 
-<br clear="both">
+<p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img alt="Globe" height="80" src="image/globe.gif">
+</a>
+</p>
+
+</td>
+
+
+<td align="center">
+<a href="https://www.linkedin.com/in/shahsultan-islam-joy">
+<strong>Linkedin Profile</strong>
+<br />
+<br />
+
+
+<p>
+<img height="100" alt="Music" src="image/linkedin-pro.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 
 
