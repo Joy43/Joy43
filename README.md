@@ -36,14 +36,24 @@
 - **Web Technologies:** APIs, JSON, JSON web token
 - **CSS Frameworks:** tailwind,Daisyui,Flowbite
 
-<div align="center">
+<!-- <div align="center">
 
 ## Current status
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joy43&theme=shades-of-purple&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
-</div>
+</div> -->
+## 📊Github Stats
 
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?
+      username=Joy43&theme=outrun" width="400" /></td>
+      <td><img src="https://streak-stats.demolab.com?user=Joy43&theme=outrun" width="400" /></td>
+    </tr>
+  </table>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joy43&show_icons=true&locale=en&layout=compact" alt="joy43" /></p>
 
@@ -60,17 +70,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joy43" alt="joy43" /></a> </p>
 
-## 📊Github Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?
-      username=Joy43&theme=outrun" width="400" /></td>
-      <td><img src="https://streak-stats.demolab.com?user=nayon117&theme=outrun" width="400" /></td>
-    </tr>
-  </table>
-</div>
 
 
 ## :bulb: Language learn and explore_
