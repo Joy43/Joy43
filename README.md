@@ -159,8 +159,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joy43&theme=outrun)
 
 </div> -->
-<!-- ----------social------------- -->
-<!-- Social -->
+
+<!---------------- Social---------------------- -->
 <table width="100%" align="center">
 <tr>
 <td align="center">
@@ -194,6 +194,20 @@
 </td>
 </tr>
 </table>
+
+
+<!-- --------footer -->
+###
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+<!-- ------visitor count--------- -->
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+
+
+</div>
 
 
 
