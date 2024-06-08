@@ -62,7 +62,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joy43&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Joy43&theme=dark&hide_border=true" width="400">
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Joy43&theme=dark&hide_border=true" width="400"> -->
+
+  <!-- ----------------language summary---------- -->
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joy43&theme=outrun)
 </p>
 
 
@@ -138,12 +141,12 @@
 
   <br/>
 
-<!-- ----------------language summary---------- -->
-<div align="center">
+
+<!-- <div align="center">
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joy43&theme=outrun)
 
-</div>
+</div> -->
 <!-- ----------social------------- -->
 <!-- Social -->
 <table width="100%" align="center">
