@@ -47,12 +47,13 @@
 <!-- -----------github status------------ -->
 ## 📊Github Stats
 
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?
       username=Joy43&theme=outrun" width="400" /></td>
-      <td><img src="https://streak-stats.demolab.com?user=Joy43&theme=outrun" width="400" /></td
+      <td><img src="https://streak-stats.demolab.com?user=Joy43&theme=outrun" width="400" />
+      </td
 
 </tr>
  
@@ -66,14 +67,23 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joy43&theme=outrun)
 </td>
   </table>
-</div>
+  
 
-
-<!-- ---------state shahsultan islam joy -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joy43&show_icons=true&theme=bear" width="400">
 
 </p>
+</div> -->
+
+<!-- -------------------------------------- -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joy43&theme=github_dark)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joy43&theme=github_dark)      ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joy43&theme=github_dark&utcOffset=8)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joy43&theme=github_dark)      ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joy43&theme=github_dark)
+
 
 <!-- --------------------langage and trolls------------- -->
 
