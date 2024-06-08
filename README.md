@@ -52,8 +52,19 @@
     <tr>
       <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?
       username=Joy43&theme=outrun" width="400" /></td>
-      <td><img src="https://streak-stats.demolab.com?user=Joy43&theme=outrun" width="400" /></td>
-    </tr>
+      <td><img src="https://streak-stats.demolab.com?user=Joy43&theme=outrun" width="400" /></td
+
+</tr>
+ 
+
+  </table>
+
+  <table>
+     
+<td>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joy43&theme=outrun)
+</td>
   </table>
 </div>
 
@@ -62,12 +73,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joy43&show_icons=true&locale=en" alt="joy43" /></p> -->
 
-<p align="flex">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joy43&show_icons=true&theme=bear" width="400">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Joy43&theme=dark&hide_border=true" width="400"> -->
 
-  <!-- ----------------language summary---------- -->
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joy43&theme=outrun)
+ 
 </p>
 
 
