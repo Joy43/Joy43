@@ -55,11 +55,15 @@
   </table>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joy43&show_icons=true&locale=en&layout=compact" alt="joy43" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joy43&show_icons=true&locale=en&layout=compact" alt="joy43" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joy43&show_icons=true&locale=en" alt="joy43" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joy43&show_icons=true&locale=en" alt="joy43" /></p> -->
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joy43&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Joy43&theme=dark&hide_border=true" width="400">
+</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -76,9 +80,9 @@
  <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<!-- <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
-</a>
+</a> -->
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
