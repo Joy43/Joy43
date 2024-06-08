@@ -38,23 +38,11 @@
 
 <div align="center">
 
-<!-- ## Current status
+## Current status
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joy43&theme=shades-of-purple&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
-</div> -->
-## 📊Github Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?
-      username=Joy43&theme=outrun" width="400" /></td>
-      <td><img src="https://streak-stats.demolab.com?user=nayon117&theme=outrun" width="400" /></td>
-    </tr>
-  </table>
 </div>
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joy43&show_icons=true&locale=en&layout=compact" alt="joy43" /></p>
@@ -111,7 +99,7 @@
   </p>
 
   <br/>
-###
+
 
 <br clear="both">
 
