@@ -43,6 +43,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joy43&theme=shades-of-purple&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
 </div> -->
+
+<!-- -----------github status------------ -->
 ## 📊Github Stats
 
 <div align="center">
@@ -60,7 +62,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joy43&show_icons=true&locale=en" alt="joy43" /></p> -->
 
-<p align="center">
+<p align="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Joy43&show_icons=true&theme=bear" width="400">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Joy43&theme=dark&hide_border=true" width="400"> -->
 
