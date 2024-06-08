@@ -100,17 +100,17 @@
 
   <br/>
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 <div align="center">
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joy43&theme=outrun)
 
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
 
 
 
