@@ -182,7 +182,7 @@
 
 
 <td align="center">
-<a href="https://www.linkedin.com/in/shahsultan-islam-joy">
+<a href="https://www.linkedin.com/in/ss-joy">
 <strong>Linkedin Profile</strong>
 <br />
 <br />
