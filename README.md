@@ -1,9 +1,9 @@
 <div style="background-color: #1D061E; padding: 20px; border-radius: 8px;">
 <h1 align="center">Hi I'm Shahsultan Islam Joy</h1>
 
-![logo](https://i.ibb.co/Z6Q0hSp/shahsultan-islam-joy.gif)
+![logo](https://res.cloudinary.com/dyosy3vte/image/upload/v1748538523/gihub_acbrpm.gif)
 
-"Shahsultan Islam Joy" from Bangladesh  | Passionate about Design, Development, and Digital Creativity | Fluent in React, MongoDB, Firebase, and Next js | Dedicated to Crafting Intuitive Material UI Experiences 🚀"
+"Shahsultan Islam Joy" from Bangladesh  | Passionate about Design, Development, and Digital Creativity | Fluent in React, TypeScript, Mongoose, MongoDB, Firebase, and Next.js,React Native | Dedicated to Crafting Intuitive Prisma Experiences 🚀"
 
 <img align="right" alt="coding" width="400" src="./image/Web Development .png">
 
@@ -40,46 +40,6 @@
 | ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat) | ![Flowbite](https://img.shields.io/badge/-Flowbite-38BDF8?style=flat) | ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma) |
 | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql) |                             | ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat) |
 | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) |                             | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
-
-
-<!-- <div align="center">
-
-## Current status
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joy43&theme=shades-of-purple&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
-
-</div> -->
-
-<!-- -----------github status------------ -->
-## 📊Github Stats
-
-<!-- <div align="center">
-  <table>
-    <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?
-      username=Joy43&theme=outrun" width="400" /></td>
-      <td><img src="https://streak-stats.demolab.com?user=Joy43&theme=outrun" width="400" />
-      </td
-
-</tr>
- 
-
-  </table>
-
-  <table>
-     
-<td>
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joy43&theme=outrun)
-</td>
-  </table>
-  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joy43&show_icons=true&theme=bear" width="400">
-
-</p>
-</div> -->
 
 <!-- -------------------------------------- -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joy43&theme=github_dark)
