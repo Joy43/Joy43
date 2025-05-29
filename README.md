@@ -1,7 +1,7 @@
 <div style="background-color: #1D061E; padding: 20px; border-radius: 8px;">
 <h1 align="center">Hi I'm Shahsultan Islam Joy</h1>
 
-![logo](https://res.cloudinary.com/dyosy3vte/image/upload/v1748538523/gihub_acbrpm.gif)
+![logo](https://res.cloudinary.com/dyosy3vte/image/upload/v1748541048/mygithub_kmjqds.gif)
 
 "Shahsultan Islam Joy" from Bangladesh  | Passionate about Design, Development, and Digital Creativity | Fluent in React, TypeScript, Mongoose, MongoDB, Firebase, and Next.js,React Native | Dedicated to Crafting Intuitive Prisma Experiences 🚀"
 
