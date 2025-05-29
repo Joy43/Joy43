@@ -25,30 +25,22 @@
 <a href="https://www.youtube.com/c/@cyberhunter370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cyberhunter370" height="30" width="40" /></a>
 </p>
 
-### 🔧 Tech Stack
+| 🧠 Languages       | ⚛️ Frameworks & Libraries        | 🛠️ CMS Platforms     |
+|--------------------|----------------------------------|----------------------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) | ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react) | ![Electron](https://img.shields.io/badge/-Electron.js-47848F?style=flat&logo=electron) |
 
-#### 🧠 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+---
 
-#### ⚛️ Frameworks & Libraries  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+| 🌐 Web Technologies       | 🎨 CSS Frameworks         | 🗄️ Databases & Tools        |
+|---------------------------|---------------------------|-----------------------------|
+| ![API](https://img.shields.io/badge/-API-FF6C37?style=flat) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| ![JSON](https://img.shields.io/badge/-JSON-292929?style=flat) | ![DaisyUI](https://img.shields.io/badge/-DaisyUI-FF69B4?style=flat) | ![NoSQL](https://img.shields.io/badge/-NoSQL-FF9900?style=flat) |
+| ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat) | ![Flowbite](https://img.shields.io/badge/-Flowbite-38BDF8?style=flat) | ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma) |
+| ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql) |                             | ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat) |
+| ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) |                             | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
 
-#### 🛠️ CMS Platforms  
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
-![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify)
-
-#### 🌐 Web Technologies  
-![API](https://img.shields.io/badge/-API-FF6C37?style=flat)
-![JSON](https://img.shields.io/badge/-JSON-292929?style=flat)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat)
-
-#### 🎨 CSS Frameworks  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css)
-![DaisyUI](https://img.shields.io/badge/-DaisyUI-FF69B4?style=flat)
-![Flowbite](https://img.shields.io/badge/-Flowbite-38BDF8?style=flat)
 
 <!-- <div align="center">
 
