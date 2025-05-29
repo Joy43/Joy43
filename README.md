@@ -10,12 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy43&label=Profile%20views&color=0e75b6&style=flat" alt="joy43" /> </p>
 
-- 👨‍💻Technology [Phone store](https://github.com/Joy43/asingment--10-client.git)
+- 👨‍💻Technology [car shop](https://car-shop-clientsite.vercel.app)
 
-
-- 👨‍💻 CSS workplace [social fontend](https://github.com/Joy43/Social-BD.git)
-
-- 👨‍💻Management Project [world Hotel mangement](https://github.com/Joy43/assingment-11-hotel-client.git)
+- 👨‍💻 web application [street food](https://car-shop-clientsite.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://gregarious-taffy-4f027f.netlify.app/](https://gregarious-taffy-4f027f.netlify.app/)
 - 🌱 I’m currently learning **Next js,Material ui**
@@ -28,13 +25,30 @@
 <a href="https://www.youtube.com/c/@cyberhunter370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cyberhunter370" height="30" width="40" /></a>
 </p>
 
-## Skills
+### 🔧 Tech Stack
 
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frameworks/Libraries:** React,Next js
-- **Content Management Systems:** WordPress,Shopify
-- **Web Technologies:** APIs, JSON, JSON web token
-- **CSS Frameworks:** tailwind,Daisyui,Flowbite
+#### 🧠 Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+
+#### ⚛️ Frameworks & Libraries  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+
+#### 🛠️ CMS Platforms  
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify)
+
+#### 🌐 Web Technologies  
+![API](https://img.shields.io/badge/-API-FF6C37?style=flat)
+![JSON](https://img.shields.io/badge/-JSON-292929?style=flat)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat)
+
+#### 🎨 CSS Frameworks  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-FF69B4?style=flat)
+![Flowbite](https://img.shields.io/badge/-Flowbite-38BDF8?style=flat)
 
 <!-- <div align="center">
 
