@@ -38,22 +38,15 @@
 
 ---
 
-| 🌐 Web Technologies       | 🎨 CSS Frameworks         | 🗄️ Databases & Tools        |
-|---------------------------|---------------------------|-----------------------------|
-| ![API](https://img.shields.io/badge/-API-FF6C37?style=flat) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| ![JSON](https://img.shields.io/badge/-JSON-292929?style=flat) | ![DaisyUI](https://img.shields.io/badge/-DaisyUI-FF69B4?style=flat) | ![NoSQL](https://img.shields.io/badge/-NoSQL-FF9900?style=flat) |
-| ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat) | ![Flowbite](https://img.shields.io/badge/-Flowbite-38BDF8?style=flat) | ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma) |
-| ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql) |                             | ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat) |
-| ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) |                             | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
+## 💻 Technologies & Tools I Use
 
-<!-- -------------------------------------- -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joy43&theme=github_dark)
+| 🌐 Web Technologies        | 🎨 CSS Frameworks          | 🗄️ Databases & ORMs          | 🚀 DevOps & Cloud Tools         |
+|----------------------------|----------------------------|-------------------------------|----------------------------------|
+| ![API](https://img.shields.io/badge/-API-FF6C37?style=for-the-badge) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| ![JSON](https://img.shields.io/badge/-JSON-292929?style=for-the-badge) | ![DaisyUI](https://img.shields.io/badge/-DaisyUI-FF69B4?style=for-the-badge) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws) |
+| ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) | ![Flowbite](https://img.shields.io/badge/-Flowbite-38BDF8?style=for-the-badge) | ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql) |                                | ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge) | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joy43&theme=github_dark)      ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joy43&theme=github_dark&utcOffset=8)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joy43&theme=github_dark)      ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joy43&theme=github_dark)
 
 
 <!-- --------------------langage and trolls------------- -->
