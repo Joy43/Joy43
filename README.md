@@ -13,14 +13,14 @@
 - 👨‍💻Technology [car shop](https://car-shop-clientsite.vercel.app)
 
 - 👨‍💻 web application [street food](https://car-shop-clientsite.vercel.app)
+- 👨‍💻 Android app with React Native [Hunting-Business](https://hunting-business.uptodown.com/android)
 
 - 👨‍💻 All of my projects are available at [https://gregarious-taffy-4f027f.netlify.app/](https://gregarious-taffy-4f027f.netlify.app/)
-- 🌱 I’m currently learning **Next js,Material ui**
-- 💬 Ask me about **react,javascript,tailwind**
+- 🌱 I’m currently learning **NeSt js,Electron js**
+- 💬 Ask me about **react Native,javascript,tailwind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/ssjoy370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ssjoy370" height="30" width="40" /></a>
 <a href="https://instagram.com/ssjoy370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssjoy370" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@cyberhunter370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cyberhunter370" height="30" width="40" /></a>
 </p>
