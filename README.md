@@ -4,7 +4,7 @@
 <!-- Animated Header -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20ss%20Joy&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shahsultan%20Islam%20Joy&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38" 
     width="100%" 
     alt="Animated Header"
   />
