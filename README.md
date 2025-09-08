@@ -3,25 +3,47 @@
 
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20Milon%20Hossain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20ss%20Joy&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38" 
+    width="100%" 
+    alt="Animated Header"
+  />
 </div>
 
 <!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+<div align="center" style="margin-top: 20px;">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9" 
+    alt="Typing Animation" 
+  />
 </div>
 
-<!-- Profile Views Counter with Animation -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=linux44gh6&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/linux44gh6?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+<!-- Profile Stats with Animation -->
+<div align="center" style="margin-top: 20px;">
+  <img 
+    src="https://komarev.com/ghpvc/?username=linux44gh6&label=Profile%20views&color=brightgreen&style=for-the-badge" 
+    alt="Profile Views" 
+  />
+  <img 
+    src="https://img.shields.io/github/followers/linux44gh6?label=Followers&style=for-the-badge&color=blue" 
+    alt="GitHub Followers" 
+  />
+  <img 
+    src="https://img.shields.io/github/stars/linux44gh6?label=Stars&style=for-the-badge&color=yellow" 
+    alt="GitHub Stars" 
+  />
 </div>
-
-<br/>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-"Shahsultan Islam Joy" from Bangladesh  | Passionate about Design, Development, and Digital Creativity | Fluent in React, TypeScript, Mongoose, MongoDB, Firebase, and Next.js, React Native | Dedicated to Crafting Intuitive Prisma Experiences 🚀"
+<div align="center" style="margin-top: 20px;">
+  <img 
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
+    width="100%" 
+    alt="Animated Divider" 
+  />
+</div>
+
+"Shahsultan Islam Joy" from Bangladesh  | Passionate about Design, Development, and Digital Creativity | Fluent in React, React Native, TypeScript, JavaScript, Prisma, Postgresql, Mongoose, MongoDB, Firebase, and Next.js, React Native | Dedicated to Crafting Intuitive Prisma Experiences 🚀"
 
 <img align="right" alt="coding" width="400" src="./image/Web Development .png">
 
