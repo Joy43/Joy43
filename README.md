@@ -13,7 +13,7 @@
 <!-- Typing Animation -->
 <div align="center" style="margin-top: 20px;">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;Computer+Science+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%92%BB;App+Developer+%F0%9F%A7%A9" 
     alt="Typing Animation" 
   />
 </div>
