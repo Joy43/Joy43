@@ -44,7 +44,7 @@
 </div>
 
 "Shahsultan Islam Joy" from Bangladesh | Computer Science & Engineering student with practical full-stack development experience and over 2
-years of experience working in a software company. Skilled in building user-friendly websites and apps | Passionate about Design, Development, and Digital Creativity | Fluent in React, React Native, TypeScript, JavaScript, Prisma, PostgreSQL, Mongoose, MongoDB, Firebase, and Next.js, React Native, Nestjs Golang | 
+years of experience working in a software company. Skilled in building user-friendly websites and apps | Passionate about Design, Development, and Digital Creativity | Fluent in React, React Native, TypeScript, JavaScript, Prisma, PostgreSQL, Mongoose, MongoDB, Firebase, and Next.js, React Native, Nestjs and Golang | 
 With clean code and strong teamwork.
 
 <img align="right" alt="coding" width="400" src="./image/Web Development .png">
