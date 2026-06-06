@@ -129,21 +129,9 @@ With clean code and strong teamwork.
 </a>
 </p>
 
-
-
----------------
-## View Readme status
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joy43" alt="joy43" /></a> </p>
-
-
-
-
-
-
 <!-- ------------explore language -->
 
-## :bulb: learn and explore Language_
+## :bulb: Learn and explore languages
 
        
        
@@ -169,9 +157,6 @@ With clean code and strong teamwork.
   </p>
 
   <br/>
-
-
-
 
 <!---------------- Social---------------------- -->
 <table width="100%" align="center">
