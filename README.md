@@ -69,10 +69,11 @@
 | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) | ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) |
 | ![Electron.js](https://img.shields.io/badge/-Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) |
 | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Multer](https://img.shields.io/badge/-Multer-333333?style=for-the-badge) |
-| ![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=mui) | | ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe) |
-| ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=for-the-badge&logo=antdesign) | | ![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal) |
+| ![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=mui) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe) |
+| ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=for-the-badge&logo=antdesign) | ![Gin](https://img.shields.io/badge/-Gin-008CBA?style=for-the-badge&logo=gin&logoColor=white) | ![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal) |
 | ![Shadcn UI](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui) | | ![SSL Commerz](https://img.shields.io/badge/-SSL_Commerz-000000?style=for-the-badge) |
 | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) | | ![SurjoPay](https://img.shields.io/badge/-SurjoPay-000000?style=for-the-badge) |
+| ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | | |
 
 ---
 
