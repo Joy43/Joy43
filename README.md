@@ -43,7 +43,7 @@
   />
 </div>
 
-"Shahsultan Islam Joy" from Bangladesh  | Passionate about Design, Development, and Digital Creativity | Fluent in React, React Native, TypeScript, JavaScript, Prisma, Postgresql, Mongoose, MongoDB, Firebase, and Next.js, React Native | Dedicated to Crafting Intuitive Prisma Experiences 🚀"
+"Shahsultan Islam Joy" from Bangladesh  | Passionate about Design, Development, and Digital Creativity | Fluent in React, React Native, TypeScript, JavaScript, Prisma, Postgresql, Mongoose, MongoDB, Firebase, and Next.js, React Native | Dedicated to Crafting Intuitive Prisma Experiences "
 
 <img align="right" alt="coding" width="400" src="./image/Web Development .png">
 
@@ -51,7 +51,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy43&label=Profile%20views&color=0e75b6&style=flat" alt="joy43" /> </p>
 
 
-- 🌱 I’m currently learning **NeSt js,Electron js**
+- 🌱 I’m currently learning **Golang,Electron js**
 - 💬 Ask me about **react Native,javascript,tailwind**
 
 <h3 align="left">Connect with me:</h3>
@@ -122,6 +122,9 @@
   <a href="https://github.com" target="_blank">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
   </a>
+  <a href="https://go.dev/" target="_blank">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go&svgfill=00ADD8">
+</a>
 </p>
 
 
