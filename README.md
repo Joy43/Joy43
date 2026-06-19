@@ -1,5 +1,4 @@
 <div style="background-color: #1D061E; padding: 20px; border-radius: 8px;">
-<h1 align="center">Hi I'm Shahsultan Islam Joy</h1>
 
 <!-- Animated Header -->
 <div align="center">
