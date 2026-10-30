@@ -61,20 +61,20 @@ With clean code and strong teamwork.
 <a href="https://www.youtube.com/c/@cyberhunter370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cyberhunter370" height="30" width="40" /></a>
 </p>
 
+
 ## 🧠 Languages & Libraries
 
-| 🌐 Frontend Development | ⚙️ Backend Development | 📦 Libraries & Others |
-|-------------------------|------------------------|-----------------------|
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) |
-| ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) | ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) |
-| ![Electron.js](https://img.shields.io/badge/-Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) |
-| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Multer](https://img.shields.io/badge/-Multer-333333?style=for-the-badge) |
-| ![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=mui) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe) |
-| ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=for-the-badge&logo=antdesign) | ![Gin](https://img.shields.io/badge/-Gin-008CBA?style=for-the-badge&logo=gin&logoColor=white) | ![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal) |
-| ![Shadcn UI](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui) | | ![SSL Commerz](https://img.shields.io/badge/-SSL_Commerz-000000?style=for-the-badge) |
-| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) | | ![SurjoPay](https://img.shields.io/badge/-SurjoPay-000000?style=for-the-badge) |
-| ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | | |
+| 🌐 Frontend Development | ⚙️ Backend Development | 📱 App Framework | 📦 Libraries & Others |
+|-------------------------|------------------------|------------------|-----------------------|
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) |
+| ![Electron.js](https://img.shields.io/badge/-Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white) | ![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) | ![Lynx](https://img.shields.io/badge/-Lynx-000000?style=for-the-badge&logoColor=white) | ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) |
+| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) | ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) |
+| ![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=mui) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | | ![Multer](https://img.shields.io/badge/-Multer-333333?style=for-the-badge) |
+| ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=for-the-badge&logo=antdesign) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | | ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe) |
+| ![Shadcn UI](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui) | ![Gin](https://img.shields.io/badge/-Gin-008CBA?style=for-the-badge&logo=gin&logoColor=white) | | ![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) | | | ![SSL Commerz](https://img.shields.io/badge/-SSL_Commerz-000000?style=for-the-badge) |
+| ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) | | | ![SurjoPay](https://img.shields.io/badge/-SurjoPay-000000?style=for-the-badge) |
 
 ---
 
