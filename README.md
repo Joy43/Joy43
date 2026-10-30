@@ -55,14 +55,6 @@ With clean code and strong teamwork.
 - 🌱 I’m currently learning **Golang,Electron js**
 - 💬 Ask me about **react Native,javascript,tailwind**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ssjoy370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssjoy370" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@cyberhunter370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cyberhunter370" height="30" width="40" /></a>
-</p>
-
-
-## 🧠 Languages & Libraries
 
 ## 🧠 Languages & Libraries
 
@@ -77,7 +69,6 @@ With clean code and strong teamwork.
 | <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-shadcn%2Fui-FFFFFF?style=for-the-badge&logo=shadcnui&logoColor=black"><img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"></picture> | ![Gin](https://img.shields.io/badge/-Gin-008CBA?style=for-the-badge&logo=gin&logoColor=white) |  | ![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) |
 | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |  |  | ![SSL Commerz](https://img.shields.io/badge/-SSL_Commerz-2E7D32?style=for-the-badge) |
 | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |  |  | ![SurjoPay](https://img.shields.io/badge/-SurjoPay-E65100?style=for-the-badge) |
-
 
 ---
 
