@@ -48,8 +48,8 @@ With clean code and strong teamwork.
 
 
 
-- 🌱 I’m currently learning **Golang,Electron js**
-- 💬 Ask me about **react Native,javascript,tailwind**
+-  I’m currently learning **Rust,Electron js**
+- 💬 Ask me about **React Native,javascript,Golang**
 
 
 ## 🧠 Languages & Libraries
